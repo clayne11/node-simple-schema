@@ -30,6 +30,7 @@
     "@clayne/message-box": "^0.0.1",
     "@clayne/mongo-object": "^0.0.3",
     "clone": "^2.1.0",
+    "deep-extend": "^0.4.1",
     "underscore": "^1.8.3"
   },
   "devDependencies": {
